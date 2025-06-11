@@ -4,6 +4,7 @@
 👩‍💻 About Me
 
 Hi! My name is **Emilly Bigoni**, I'm a **Junior QA** with experience in manual testing and currently deepening my knowledge in **test automation with Cypress and Playwright**.  
+I'm currently pursuing a **Bachelor's degree in Informatics**.  
 I'm passionate about software quality and enjoy thinking like the user to deliver the best possible experience.
 
 ✨ Outside of tech, I'm interested in:
