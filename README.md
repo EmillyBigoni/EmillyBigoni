@@ -1,11 +1,25 @@
-<h1 align="center">Hi 👋, I'm Emilly Bigoni</h1>
+<h1 align="center">Hii, I'm Emilly Bigoni ✨</h1>
 <h3 align="center">Junior QA</h3>
 
+👩‍💻 About Me
+
+Hi! My name is **Emilly Bigoni**, I'm a **Junior QA** with experience in manual testing and currently deepening my knowledge in **test automation with Cypress and Playwright**.  
+I'm passionate about software quality and enjoy thinking like the user to deliver the best possible experience.
+
+✨ Outside of tech, I'm interested in:
+
+- 🐱 Cats  
+- 🎌 Asian culture (anime, music, food, and much more)
+
+
+![Cute cat gif](https://i.gifer.com/nRq.gif)
+
+---
 ## Languages
 
 - 🇧🇷 Portuguese (native)  
 - 🇪🇸 Spanish (intermediate)  
-- 🇺🇸 English (basic)
+- 🇺🇸 English (intermediate)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emillybigoni&label=Profile%20views&color=0e75b6&style=flat" alt="emillybigoni" /> </p>
 
